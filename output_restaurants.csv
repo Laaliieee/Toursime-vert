@@ -1,0 +1,281 @@
+Nom,Address,Note,Telephone,Serves_Vegetarian_Food,Price_Level,User_Rating_Count,Country
+Taste of Jaffna Buffet,"Ozo Hotel, 36 Clifford Place, කොළඹ 01000, Sri Lanka",5,0112 555 570,True,,1,Sri Lanka
+Patta,"WVG6+RFQ, Colombo 01000, Sri Lanka",4.6,076 437 5420,,,36,Sri Lanka
+chamith ishara,"WVG6+RC5, Colombo 01000, Sri Lanka",5,077 316 6628,,,1,Sri Lanka
+Antojitos de la abue,"QQM9+9MQ delaabueantojos@gmail.com, Guatemala 11001, Guatemala",5,5593 3324,,,1,Guatemala
+Subway,"Kmt.17.5, Barcenas 2nd nivel L-215A Cc Santa Clara, Cdad. de Guatemala, Guatemala",5,3128 7352,,PRICE_LEVEL_INEXPENSIVE,1,Guatemala
+LA GALLERIE - Rest-O-Bar,"Avenida La Reforma 74, Cdad. de Guatemala, Guatemala",4,4909 3722,,,2,Guatemala
+Café 1890,"R. das Portas de Santo Antão 96, 1150-269 Lisboa, Portugal",2.1,21 347 1202,,,71,Portugal
+Restaurante Alvarinho,"R. das Portas de Santo Antão 82, 1100-269 Lisboa, Portugal",4.3,920 283 879,,,359,Portugal
+Food Hub,"CC de Sant'Ana 100, 1150-305 Lisboa, Portugal",4.7,964 373 634,,,98,Portugal
+Lisbon Wine House,"R. das Portas de Santo Antão 88 Stadtzentrum, 1150-266 Lisboa, Portugal",4.2,21 145 1240,,,72,Portugal
+Café Coliseu,"R. das Portas de Santo Antão 96, 1150-269 Lisboa, Portugal",4.1,21 347 4342,,PRICE_LEVEL_MODERATE,183,Portugal
+Scoop n Dough,"R. das Portas de Santo Antão 78, 1150-269 Lisboa, Portugal",4.6,937 660 536,,PRICE_LEVEL_MODERATE,1767,Portugal
+Grazst Lisboa - Focaccia Sandwiches & Coffee,"CC de Sant'Ana 88, 1150-306 Lisboa, Portugal",5,914 086 946,,,16,Portugal
+Restaurante Santo Antão,"R. das Portas de Santo Antão 62, 1150-268 Lisboa, Portugal",1.7,932 206 180,,,55,Portugal
+Nui Sushi & Bar,"CC de Sant'Ana 70, 1150-305 Lisboa, Portugal",4.7,21 295 0197,,,312,Portugal
+O Churrasco,"R. das Portas de Santo Antão 85, 1150-266 Lisboa, Portugal",4,21 342 3059,,PRICE_LEVEL_MODERATE,1249,Portugal
+Casa do Alentejo,"R. das Portas de Santo Antão 58, 1150-268 Lisboa, Portugal",4.2,21 340 5140,True,PRICE_LEVEL_MODERATE,7174,Portugal
+"BRAVERY CAFE (DONER KEBAB, NEPALESE, INDIANA KITCHEN AND BAR)","CC de Sant'Ana 69, 1150-301 Lisboa, Portugal",4.1,21 602 1191,,,35,Portugal
+100 Montaditos Rossio,"R. das Portas de Santo Antão 105, 1150-265 Lisboa, Portugal",4.6,21 342 0833,False,PRICE_LEVEL_INEXPENSIVE,436,Portugal
+Cervejaria Brilhante,"R. das Portas de Santo Antão 105, 1150-265 Lisboa, Portugal",4,910 469 818,,PRICE_LEVEL_INEXPENSIVE,49,Portugal
+The Queen Ale,"Largo do Tab. 9, 1150-344 Lisboa, Portugal",4.8,,,PRICE_LEVEL_MODERATE,347,Portugal
+YOAM - Asian food & drinks,"Rua do Almada 348, 4050-033 Porto, Portugal",4.4,22 208 1252,True,,741,Portugal
+Brasão Aliados,"R. de Ramalho Ortigão 28, 4000-407 Porto, Portugal",4.6,934 158 672,True,PRICE_LEVEL_MODERATE,14396,Portugal
+Restaurante INVICTO,"Av. dos Aliados 211, 4000-067 Porto, Portugal",4.6,22 040 1300,,,42,Portugal
+Grigio,"Rua do Almada 344, 4000 Porto, Portugal",4.3,937 038 111,,,863,Portugal
+Pontual,"Rua do Almada 350, 4000 Porto, Portugal",4.4,22 208 8917,,PRICE_LEVEL_INEXPENSIVE,664,Portugal
+Almada Terrace,"Rua do Almada 362, 4050-038 Porto, Portugal",4.7,910 700 933,,,465,Portugal
+Alice in Brewland,"Rua do Almada 334, 4050-033 Porto, Portugal",4.7,919 443 733,True,,199,Portugal
+Metro da Trindade,"Praça Trindade 105, 4000-035 Porto, Portugal",4.2,,True,PRICE_LEVEL_INEXPENSIVE,1449,Portugal
+Migalhas,"R. do Dr. Ricardo Jorge 9, 4000-035 Porto, Portugal",4.1,22 208 6921,,PRICE_LEVEL_MODERATE,439,Portugal
+Camilo Restaurante,"Rua do Almada 378, 4050-033 Porto, Portugal",4.8,915 299 442,,,178,Portugal
+Zafferano Porto Indian Restaurant,"Rua do Almada 316, 4050-033 Porto, Portugal",4.9,969 713 604,True,,231,Portugal
+Sıla Paris Turco Cafe,"Rua do Almada, 4000 Porto, Portugal",4.5,22 536 1848,,,2,Portugal
+Maria Laura Tua Alma(da) Transmontana,"Rua do Almada 325, 4050-038 Porto, Portugal",4.8,910 209 111,,,6,Portugal
+Boteco Igrejinha - Bar Brasileiro,"Rua do Almada 384, 4050-033 Porto, Portugal",4.9,928 151 343,,,79,Portugal
+Roots - Plant Based Pleasure,"Rua do Almada 335, 4050-038 Porto, Portugal",4.8,22 409 3322,True,,188,Portugal
+Nem Carne Nem Peixe,"Rua do Almada 307, 4050-038 Porto, Portugal",4.8,22 208 7003,True,,125,Portugal
+Bubble tea•Coffee•2D Café at One Two Tea,"Rua do Almada 291, 4050-037 Porto, Portugal",4.6,,True,PRICE_LEVEL_INEXPENSIVE,282,Portugal
+Sabores Do Kebab Turquia - Porto,"Rua do Almada 349, 4050-038 Porto, Portugal",4.5,920 547 233,True,,105,Portugal
+Dote - Porto,"R. do Dr. Ricardo Jorge 4, 4000-589 Porto, Portugal",3.9,939 959 000,,,212,Portugal
+MO - Maria Odete,"R. do Dr. Ricardo Jorge 67, 4050-514 Porto, Portugal",4,913 838 997,True,PRICE_LEVEL_MODERATE,678,Portugal
+Züri Bistro,"Shopville-Railcity, 8001 Zürich, Switzerland",4.6,043 811 75 77,,PRICE_LEVEL_INEXPENSIVE,2328,Suisse
+La Piadina,"Bahnhofquai, 8001 Zürich, Switzerland",4.7,,True,,317,Suisse
+Dupont - Brasserie & Bar,"Beatenpl. 4, 8001 Zürich, Switzerland",4.2,044 542 92 20,,,771,Suisse
+Yardbird Hauptbahnhof Zürich,"Bahnhofplatz 15, 8001 Zürich, Switzerland",4.1,079 565 71 23,,PRICE_LEVEL_MODERATE,219,Suisse
+The Counter,"Bahnhofplatz 15, 8001 Zürich, Switzerland",4.9,044 244 32 16,,,65,Suisse
+Ruby Mimi Hotel & Bar,"Beatenpl. 4, 8001 Zürich, Switzerland",4.6,044 244 10 60,,,2200,Suisse
+McDonald’s,"Bahnhofplatz 5, 8001 Zürich, Switzerland",3.7,044 211 80 70,True,PRICE_LEVEL_MODERATE,3924,Suisse
+Brasserie Süd,"Südtrakt Hauptbahnhof Zürich, Bahnhofplatz 15, 8001 Zürich, Switzerland",4.1,044 244 32 15,,,362,Suisse
+Kowalski,"Schützengasse 4, 8001 Zürich, Switzerland",4.3,043 344 82 85,,PRICE_LEVEL_MODERATE,226,Suisse
+Dunkin' Donuts - ShopVille Hall Löwenstrasse,"Zürich Hauptbahnhof Bahnhofplatz, Hall, SBB ShopVille HB Zürich, Löwenstrasse 15/Floor -2, 8001 Zürich, Switzerland",3.5,044 542 39 00,,PRICE_LEVEL_MODERATE,259,Suisse
+NORDSEE,"Bahnhofplatz 15, 8001 Zürich, Switzerland",3.9,044 578 46 10,,,715,Suisse
+Sala of Tokyo,"Schützengasse 5, 8001 Zürich, Switzerland",4.5,044 271 52 90,,PRICE_LEVEL_VERY_EXPENSIVE,611,Suisse
+Central Garten,"Central 1, 8001 Zürich, Switzerland",4.4,044 256 56 56,True,PRICE_LEVEL_MODERATE,444,Suisse
+D-Vino,"Schützengasse 12, 8001 Zürich, Switzerland",4.2,044 403 48 60,True,PRICE_LEVEL_MODERATE,989,Suisse
+tsuru tsuru noodlebar,"Schützengasse 5, 8001 Zürich, Switzerland",4.6,077 419 32 99,,,243,Suisse
+Brasserie Federal,"Bahnhofplatz 15, 8001 Zürich, Switzerland",3.9,044 217 15 85,,PRICE_LEVEL_MODERATE,2626,Suisse
+LEICHTSINN umami food & wine,"Kornhauspl. 10, 3011 Bern, Switzerland",4.5,031 312 12 00,,PRICE_LEVEL_MODERATE,313,Suisse
+McDonald’s,"Zytgloggelaube 6, 3011 Bern, Switzerland",3.5,031 318 88 70,True,PRICE_LEVEL_MODERATE,1576,Suisse
+Papa Burrito,"Kornhauspl. 14, 3011 Bern, Switzerland",4.3,031 311 98 92,True,,1161,Suisse
+Trattoria Sempre Bern,"Kornhauspl. 7, 3011 Bern, Switzerland",3.9,031 312 54 55,,,69,Suisse
+Mekong,"Kornhauspl. 7, 3011 Bern, Switzerland",4,031 311 26 00,True,PRICE_LEVEL_MODERATE,504,Suisse
+Anker,"Kornhauspl. 16, 3011 Bern, Switzerland",4,031 311 11 13,True,PRICE_LEVEL_MODERATE,1035,Suisse
+Manora Restaurant Bern,"Marktgasse 10/5. OG, 3011 Bern, Switzerland",4,031 300 56 99,True,,124,Suisse
+Kornhauskeller Restaurant & Bar,"Kornhauspl. 18, 3011 Bern, Switzerland",4.4,031 327 72 72,True,PRICE_LEVEL_EXPENSIVE,3530,Suisse
+Café des Pyrénées,"Kornhauspl. 17, 3011 Bern, Switzerland",4.3,031 311 30 63,True,PRICE_LEVEL_MODERATE,657,Suisse
+Lorenzini Ristorante & Bar,"Hotelgasse 10, 3011 Bern, Switzerland",4.4,031 318 50 67,True,PRICE_LEVEL_MODERATE,1005,Suisse
+Più Kornhaus,"Kornhauspl. 18, 3011 Bern, Switzerland",4,031 327 72 70,True,PRICE_LEVEL_MODERATE,878,Suisse
+Restaurant Ringgenberg,"Kornhauspl. 19, 3011 Bern, Switzerland",4.1,031 311 25 40,True,PRICE_LEVEL_MODERATE,537,Suisse
+Punkt,"Rathausgasse 73, 3011 Bern, Switzerland",3,031 318 18 88,,,1,Suisse
+Soriya,"Rathausgasse 73, 3011 Bern, Switzerland",4.4,031 318 18 88,True,PRICE_LEVEL_MODERATE,408,Suisse
+Bewegungszeit,"Kramgasse 76, 3011 Bern, Switzerland",5,031 951 20 01,,,2,Suisse
+The BEEF Steakhouse & Bar,"Kramgasse 74, 3011 Bern, Switzerland",4.4,031 311 64 00,True,PRICE_LEVEL_EXPENSIVE,1066,Suisse
+Da Bucolo,"Amthausgasse 10, 3011 Bern, Switzerland",4.3,031 332 82 82,,PRICE_LEVEL_MODERATE,600,Suisse
+"Muslim restaurant and masjid,እማማ ፊሽካ ,ሰሜን ማዘጋጃ","3P3V+J47 A3, Addis Ababa, Ethiopia",4.2,093 154 2209,,,6,Éthiopie
+Eagle bar and restaurant,"3P2V+4VP, Addis Ababa, Ethiopia",5,091 184 0673,,,1,Éthiopie
+El Fogón de Robin,"Calle, Nataniel Garcia, Magdalena, Bolivia",3.6,77695541,,,25,Bolivie
+Restaurante Abba Kadosh,"Sucre 81, Santa Cruz de la Sierra, Bolivia",4.8,78066088,,,13,Bolivie
+Plaza Boulevard - LA LOGIA DE LOS SABORES,"Beni 41, Santa Cruz de la Sierra, Bolivia",5,69188045,,,2,Bolivie
+ACAI BAR Superfood - Suc. Centro,"Sucre 8, Santa Cruz de la Sierra, Bolivia",4.4,69274805,,PRICE_LEVEL_MODERATE,735,Bolivie
+Club Buenas Vibras,"Calle Beni #77, calles Bolivar y, Santa Cruz de la Sierra, Bolivia",5,75513697,,,1,Bolivie
+Amazonico Bistro & Lounge by mojitos,"Shoping Bolivar, nivel 1, 24 de septiembre 32, Shoping Bolivar, nivel, 24 de septiembre 159, Santa Cruz de la Sierra, Bolivia",4.6,78046162,,,15,Bolivie
+Baixiang Ramen,"0000, Santa Cruz de la Sierra, Bolivia",1,76413113,,,2,Bolivie
+70/30 Resto Bar,"24 de septiembre, Santa Cruz de la Sierra, Bolivia",5,77533217,,,2,Bolivie
+Jamuy wings & burgers,"Sucre 8, Santa Cruz de la Sierra, Bolivia",4.1,65032661,,,54,Bolivie
+Brasargent Express Boulevard Plaza,"Beni, Santa Cruz de la Sierra, Bolivia",4.1,78451078,,PRICE_LEVEL_MODERATE,164,Bolivie
+La Pascana,"24 de septiembre, Santa Cruz de la Sierra, Bolivia",3.5,,True,PRICE_LEVEL_MODERATE,707,Bolivie
+Irish Pub,"6R89+Q9G, 24 de septiembre, Santa Cruz de la Sierra, Bolivia",4.4,3 3338118,,PRICE_LEVEL_MODERATE,2394,Bolivie
+Restaurante Delicias Fest,"0000, Santa Cruz de la Sierra, Bolivia",5,62212112,,,2,Bolivie
+Noi Pizzería,"Sucre 50, Santa Cruz de la Sierra, Bolivia",4.5,62000233,True,PRICE_LEVEL_MODERATE,647,Bolivie
+Burger King - Plaza 24,"6R89+FFC, Sucre, Santa Cruz de la Sierra, Bolivia",4.3,,,PRICE_LEVEL_MODERATE,1217,Bolivie
+La Gaira Centro,"Rene Moreno 20, Santa Cruz de la Sierra, Bolivia",3,62244875,,,17,Bolivie
+EL CHARRO NEGRO MEXICAN COOK,"0000, La Paz, Bolivia",4.8,62593363,,,4,Bolivie
+Pollos ingal's,"FVXJ+MF5, Av. Argentina 1825, La Paz, Bolivia",4.2,2 2240151,,PRICE_LEVEL_MODERATE,539,Bolivie
+7 lunares chorizaqueños,"26 Carrasco, Av. Busch y, La Paz, Bolivia",4.5,63047967,,,16,Bolivie
+Charquekan Sajameño,"Av. Busch 1749, La Paz, Bolivia",2.5,62529999,,,2,Bolivie
+Mozzarella Pizza,"Av. Busch Casi Esq. Carrasco Edificio Girasoles II PB, GV2H+2J7, La Paz, Bolivia",4.1,73222733,,,33,Bolivie
+ABI'S FIT CLUB Herbalife,"Diaz Romero 1448, La Paz, Bolivia",5,77210032,,,6,Bolivie
+El Sabor de mi Tierra,"GV2H+9MR, La Paz, Bolivia",3.2,78931109,,,5,Bolivie
+Taqueria Monterrey,"Charlifer@gmail.com, La Paz, Bolivia",4.6,60662113,,,30,Bolivie
+La Marmite,"Independence Ave @, Marien Ngouabi St, Windhoek, Namibia",3.9,081 144 5353,,PRICE_LEVEL_MODERATE,159,Namibie
+Eat@UNITED,"194 Bahnhof St, Windhoek, Namibia",5,061 226 031,,,5,Namibie
+Nunus_kitchen&lounge,"22, 55889° S, 17 08151° E, Windhoek, Namibia",4.3,081 231 5685,,,41,Namibie
+Top Restaurant and Bar,"10005, Corner of Independence Avenue & Mburumba Street, Independence Ave, Windhoek, Namibia",4,061 226 031,,,1,Namibie
+Grill Addicts Independence,"Shop 341, Kutz House, Independence Ave, Windhoek, Namibia",2.4,061 236 710,,,8,Namibie
+Nixon Cafe & Take Away,"344 Independence Ave, Windhoek, Namibia",4.5,081 423 1456,True,,2,Namibie
+Halaal Meat One Butchery,"Mandume Ndemufayo Avenue, Windhoek, Namibia",4.5,081 862 6786,,,16,Namibie
+"ROOSTERS- Ribs, Chicken, Pizza","Shop 1 Continental Building, Windhoek, Independence Ave, Windhoek, Namibia",4.5,061 226 535,,,4,Namibie
+Le Roof,"Robert Mugabe Ave, Windhoek, Namibia",4.2,061 245 708,,,5,Namibie
+Captain DoRegos Windhoek,"Shop 1, Continental Building, Independence Ave, Windhoek, Namibia",4,061 226 535,,PRICE_LEVEL_INEXPENSIVE,109,Namibie
+Kamaya Restaurant,"5726 corner Robert Mugabe and, John Meinert Street, Windhoek, Namibia",4.1,061 243 200,,,45,Namibie
+Chicago's Bar & Restaurant,"10000, 416 Independence Ave, Windhoek, Namibia",4.1,081 447 7230,True,PRICE_LEVEL_MODERATE,511,Namibie
+The Avenue Lounge,"C3WM+2C3, Windhoek, Namibia",3.8,061 236 915,,PRICE_LEVEL_MODERATE,80,Namibie
+Hotel Uhland,"147, Dr. Kenneth David Kaunda Street former, Dr. Kenneth David Kaunda St, Windhoek, Namibia",4.1,061 389 700,,,238,Namibie
+Old Continental Café & Take-Away,"Continental Passage between Independence Ave, and Lüderitz Street, Windhoek, Namibia",4,081 608 0011,True,PRICE_LEVEL_MODERATE,204,Namibie
+KFC Independence,"Independence Ave, Windhoek, Namibia",3.6,083 333 0312,,PRICE_LEVEL_MODERATE,154,Namibie
+UNITED KING BUTCHERY (HALAAL),"426 Independence Ave, Windhoek, Namibia",5,085 675 6751,,,5,Namibie
+Columbus Café & Co,"Métro Hotel de Ville Ligne 1 sortie 6, 75004 Paris, France",3.8,,True,PRICE_LEVEL_MODERATE,23,France
+La table cachée par Michel Roth - BHV Marais,"55 Rue de la Verrerie, 75004 Paris, France",4.3,01 42 74 91 86,,,274,France
+Crêperie Elo BHV,"4 Rue du Temple, 75004 Paris, France",4.5,01 43 48 21 47,,,32,France
+All paladar,"Av 18E #19E-22, 06000 Nice, France",5,302 6903935,,,1,France
+La Villa d'Isa,"7 Pl. du Général de Gaulle, 06100 Nice, France",4,04 93 51 83 71,,,218,France
+Food-Court Da ANDREA - Cucina Italiana,"1-3, Rue Flaminius Raiberti, 06000 Nice, France",4.7,06 22 06 50 81,True,,322,France
+Kiosque tintin,"3 Pl. du Général de Gaulle, 06100 Nice, France",4.3,04 92 09 16 19,,PRICE_LEVEL_MODERATE,739,France
+LITTLE PERLE TRAITEUR Fusion Chinoise,"1-3 Rue Flaminius Raiberti Cité Marchande Docks Riviera, 06000 Nice, France",4.9,06 69 66 24 33,,,25,France
+Brasserie Le Gambetta,"1 Pl. du Général de Gaulle, 06000 Nice, France",4.3,04 93 84 76 07,False,PRICE_LEVEL_MODERATE,1766,France
+Le bistrot des docks,"2 Rue Flaminius Raiberti, 06000 Nice, France",4.9,04 23 20 72 55,,,106,France
+Asia Libération,"2 Rue Flaminius Raiberti, 06000 Nice, France",4.6,06 65 29 23 79,,,33,France
+J.Multari BORRIGLIONE,"6 Av. Alfred Borriglione, 06100 Nice, France",3.6,04 92 09 15 65,,PRICE_LEVEL_MODERATE,436,France
+Socca'Tram,"6bis Av. Alfred Borriglione, 06100 Nice, France",4.3,04 93 52 54 84,True,PRICE_LEVEL_INEXPENSIVE,656,France
+Bread Sugar And Salt Srl,"Via Augusto Terenzi, 4/10, 00169 Roma RM, Italy",4.1,06 231 2740,,PRICE_LEVEL_MODERATE,564,Italie
+Pizzeria Pummarulé,"Via Mario Lizzani, 21, 00169 Roma RM, Italy",5,375 666 9659,,,60,Italie
+Sofia Infinità-Bar Ristorante Pizzeria,"Via delle Mimose, 93, 00172 Roma RM, Italy",4.7,06 6930 1898,,,24,Italie
+Voglia Di Pizza Viale Dei Romanisti 237,"Viale dei Romanisti, 235/237, 00169 Roma RM, Italy",4.5,06 2324 8231,,PRICE_LEVEL_INEXPENSIVE,157,Italie
+Assolo Mare,"Piazza delle Camelie, 18, 00172 Roma RM, Italy",4.4,351 554 4342,,PRICE_LEVEL_INEXPENSIVE,633,Italie
+Picchiapò e scottadito trattoria alla vecchia maniera,"Piazza delle Camelie, 25, 00172 Roma RM, Italy",5,329 854 9030,,,6,Italie
+Royal Thai,"Piazza delle Camelie, 37, 00172 Roma RM, Italy",4.3,06 8797 9707,True,PRICE_LEVEL_MODERATE,381,Italie
+Lo Sciabbecco,"Via Tor de' Schiavi, 00172 Roma RM, Italy",4.7,347 127 2050,,PRICE_LEVEL_INEXPENSIVE,153,Italie
+Augustea Sporting Club,"Via Armando Luciani, 57, 00169 Roma RM, Italy",4.2,06 6930 1352,,,168,Italie
+Rosticceria HARU,"Via delle Mimose, 38, 00172 Roma RM, Italy",4.2,389 917 2829,,,21,Italie
+Pizzeria al metro Gran Roma - ALESSANDRINO,"Via Aufidio Namusa, 180A, 00169 Roma RM, Italy",4.2,06 9442 6341,True,PRICE_LEVEL_INEXPENSIVE,97,Italie
+Saint Martin Halal Restaurant,"Via Tor de' Schiavi, 27, 00172 Roma RM, Italy",4.2,377 598 5160,,,108,Italie
+Camparino in Galleria,"P.za del Duomo, 21, 20121 Milano MI, Italy",4.4,02 8646 4435,,PRICE_LEVEL_EXPENSIVE,2246,Italie
+Saporè Milano by Renato Bosco,"P.za del Duomo, 20122 Milano MI, Italy",4,02 8633 1960,True,,605,Italie
+Old Wild West - Milano Duomo,"P.za del Duomo, 25, 20121 Milano MI, Italy",4,02 5812 6538,,PRICE_LEVEL_MODERATE,673,Italie
+Giacomo Arengario,"Via Guglielmo Marconi, 1, 20123 Milano MI, Italy",4.1,02 7209 3814,,PRICE_LEVEL_EXPENSIVE,1428,Italie
+Terrazza Aperol,"Galleria Vittorio Emanuele II, 20121 Milano MI, Italy",3.7,,,PRICE_LEVEL_EXPENSIVE,4799,Italie
+Prima classe Bar,"P.za del Duomo, 20121 Milano MI, Italy",2.3,393 114 0243,,,11,Italie
+"Verso Ristorante, Capitaneo","P.za del Duomo, 21/secondo piano, 20121 Milano MI, Italy",4.7,02 8975 0929,,,119,Italie
+Burger King,"P.za del Duomo, 20121 Milano MI, Italy",3.7,02 8633 1927,,PRICE_LEVEL_INEXPENSIVE,3564,Italie
+Coppola,"Via Dogana, 2, 20123 Milano MI, Italy",2.8,02 7208 0662,,,127,Italie
+Motta Milano 1928,"Galleria Vittorio Emanuele II, 20121 Milano MI, Italy",3.4,02 8633 1926,,PRICE_LEVEL_EXPENSIVE,3010,Italie
+Pino in Duomo,"Via Silvio Pellico, 4, 20122 Milano MI, Italy",3.9,02 4538 8670,True,PRICE_LEVEL_MODERATE,1569,Italie
+Doppio Malto Milano Duomo,"Via Dogana, 1, 20123 Milano MI, Italy",4.3,02 3055 1856,True,PRICE_LEVEL_MODERATE,2156,Italie
+Da Regina 1985,"Via Silvio Pellico, 1, 20121 Milano MI, Italy",3.9,02 3658 4500,,PRICE_LEVEL_MODERATE,2651,Italie
+Temakinho,"Via Guglielmo Marconi, 4, 20122 Milano MI, Italy",4,02 8050 0575,True,PRICE_LEVEL_MODERATE,1529,Italie
+Fresco & Cimmino,"Via Ugo Foscolo, 4, 20121 Milano MI, Italy",3.8,02 9737 4869,True,PRICE_LEVEL_MODERATE,6024,Italie
+Gino Sorbillo - Pizza Gourmand,"Via Ugo Foscolo, 1, 20121 Milano MI, Italy",4.1,02 8050 2300,True,PRICE_LEVEL_MODERATE,4145,Italie
+Hummustown Kiosk,"Viale Luigi Einaudi, 00185 Roma RM, Italy",4.8,338 582 7961,True,,276,Italie
+"SEEN by Olivier, Rome","P.za della Repubblica, 48, 00185 Roma RM, Italy",3.9,06 489381,,,148,Italie
+INEO Restaurant,"P.za della Repubblica, 46, 00184 Roma RM, Italy",4.8,06 4893 8061,,,43,Italie
+Ristorante Pizzeria La Cucina Nazionale,"Via Nazionale, 3, 00184 Roma RM, Italy",4.1,06 484452,,PRICE_LEVEL_MODERATE,2446,Italie
+Target,"Via Torino, 33, 00184 Roma RM, Italy",4.3,06 474 0066,,PRICE_LEVEL_MODERATE,1329,Italie
+McDonald’s,"Via Nazionale, 258, 00184 Roma RM, Italy",3.8,06 8882 0998,,PRICE_LEVEL_INEXPENSIVE,1620,Italie
+Casina Azzurra Bar Ristorante,"Largo di Villa Peretti, 70, 00185 Roma RM, Italy",4.1,06 482 0958,,,153,Italie
+Ristorante Cotto - Dharma Group,"Via Torino, 124, 00184 Roma RM, Italy",4.2,06 8351 1947,True,PRICE_LEVEL_MODERATE,1813,Italie
+Dharma Hotel & Luxury Suites,"Via Torino, 122, 00184 Roma RM, Italy",4.4,06 481 4085,,,484,Italie
+Quel che c’è laboratorio Di Cucina,"Via Torino, 129, 00184 Roma RM, Italy",4.9,391 778 6748,True,,1212,Italie
+La Buca Romana,"Via Nazionale, 251/A, 00184 Roma RM, Italy",4.4,06 7978 4177,True,PRICE_LEVEL_MODERATE,856,Italie
+Rossini,"Via Nazionale, 7, 00184 Roma RM, Italy",3.9,06 470771,,PRICE_LEVEL_MODERATE,154,Italie
+Le perle ipocaloriche del gusto,"Via Modena, 49, 00184 Roma RM, Italy",5,327 539 7770,True,,7,Italie
+Ristorante Terme di Diocleziano,"Via del Viminale, 3/A, 00184 Roma RM, Italy",4.2,06 487 2120,,PRICE_LEVEL_MODERATE,1017,Italie
+Timoty Drinks & Kitchen,"Via Torino, 46, 00184 Roma RM, Italy",4.4,06 9686 0080,,PRICE_LEVEL_MODERATE,731,Italie
+Daddi's Pizza Reykjavík,"Skipholt 70, 105 Reykjavík, Iceland",4.2,558 6060,,,19,Islande
+American style,"Skipholt 70, 105 Reykjavík, Iceland",4.1,517 1818,True,PRICE_LEVEL_MODERATE,175,Islande
+Castello Pizzeria,"Lágmúli 7, 108 Reykjavík, Iceland",4.3,577 3333,True,,97,Islande
+Snooker & Pool,"Lágmúli, 108 Reykjavík, Iceland",4.1,581 1147,,,48,Islande
+VOX Brasserie & Bar,"Hilton Reykjavík Nordica, 108 Suðurlandsbraut 2, 105 Reykjavík, Iceland",4.3,444 5050,True,,178,Islande
+VietExpress Food,"Laugavegur 178, 105 Reykjavík, Iceland",4.7,551 3368,,,55,Islande
+Pítan,"Skipholt 50c, 105 Reykjavík, Iceland",3.9,562 9090,,PRICE_LEVEL_MODERATE,119,Islande
+Kjúklingastaðurinn Suðurver,"Stigahlíð 45-47, 105 Reykjavík, Iceland",3.7,553 8890,,,51,Islande
+Múlakaffi,"Hallarmúli, 108 Reykjavík, Iceland",4.6,553 7737,,,126,Islande
+Yuzu Burger,"Kringlan, 103 Reykjavík, Iceland",3.9,588 8818,,,19,Islande
+Mandi Kringlan,"Kringlan 4, 103 Reykjavík, Iceland",4.6,571 1444,True,,7,Islande
+Sbarro,"Kringlan Kringlunni 4-12, 103 Reykjavík, Iceland",4,517 3243,,,26,Islande
+Finnsson,"3rd Floor Kringlan Shopping Mall, Kringlan 4-12, 103 Reykjavík, Iceland",4,550 0030,True,,59,Islande
+Subway,"Kringlan 1, 103 Reykjavík, Iceland",5,620 5866,,,1,Islande
+Restaurante la Estacion,"Av Grl D Cerri 771, Bah�a Blanca, Buenos Aires, C1010 Cdad. Autónoma de Buenos Aires, Argentina",4.7,0291 456-5737,,,12,Argentine
+Lo de Maria Lucrecia,"Buchardo S/n, Mar de Aj�, Buenos Aires, C1010 Cdad. Autónoma de Buenos Aires, Argentina",1,02257 42-0009,,,1,Argentine
+Los 3 chiflados,"28 entre 473 bis y 474, C1896 La plata, Cdad. Autónoma de Buenos Aires, Argentina",5,0221 480-1333,,,1,Argentine
+Sabrosa,"Avenida Pueyrredón 975, C1032ABJ Cdad. Autónoma de Buenos Aires, Argentina",4.1,011 4964-2876,,,38,Argentine
+Subway,"Av Pte Roque Saenz Pena 1118 PB, C1020 Cdad. Autónoma de Buenos Aires, Argentina",3.8,011 5473-8700,,PRICE_LEVEL_MODERATE,1328,Argentine
+KFC,"Carlos Pellegrini 435, C1010 Cdad. Autónoma de Buenos Aires, Argentina",4.1,0800-362-1444,,PRICE_LEVEL_MODERATE,20175,Argentine
+McDonald's,"6, Av. Corrientes 992, C1043 Cdad. Autónoma de Buenos Aires, Argentina",3.9,,True,PRICE_LEVEL_MODERATE,11800,Argentine
+Revire Brasas Bravas,"Av. Corrientes 1124, C1043 Cdad. Autónoma de Buenos Aires, Argentina",4.5,011 4381-4519,True,PRICE_LEVEL_EXPENSIVE,3160,Argentine
+Avecor,"Av. Corrientes 1127, C1043 AAL, Cdad. Autónoma de Buenos Aires, Argentina",4.3,011 4382-0175,,,433,Argentine
+Burger King,"Carlos Pellegrini 451, C1009 Cdad. Autónoma de Buenos Aires, Argentina",3.9,,,PRICE_LEVEL_MODERATE,9989,Argentine
+Mostaza,"Av. Corrientes 974, C1043 Cdad. Autónoma de Buenos Aires, Argentina",4,,,PRICE_LEVEL_MODERATE,4317,Argentine
+Primícias do Sabor,"Tv. Cap. Barrão, 10 - São Cristóvão, Rio de Janeiro - RJ, 20941-100, Brazil",4.4,(21) 2580-0418,False,PRICE_LEVEL_INEXPENSIVE,199,Argentine
+Big Lanches,"R. Pedro Alves, 148 - Santo Cristo, Rio de Janeiro - RJ, 20220-280, Brazil",4.7,,False,,7,Argentine
+Nossa Casa Gourmet,"Tv. Cap. Barrão - São Cristóvão, Rio de Janeiro - RJ, 20941-100, Brazil",5,(21) 99646-3527,,,1,Argentine
+Rodoviária Novo Rio,"R. Pedro Alves, 171-173 - Santo Cristo, Rio de Janeiro - RJ, 20220-280, Brazil",4.1,2263-1264,,,51,Argentine
+Berlin Café e Restaurante,"R. Gotemburgo, 240 - São Cristóvão, Rio de Janeiro - RJ, 20941-080, Brazil",4.5,0800 042 0102,,,2,Argentine
+Pão & Companhia - Fabrica de Pães Artesanais,"R. Gotemburgo, 300 - São Cristóvão, Rio de Janeiro - RJ, 20941-080, Brazil",4.8,(21) 99803-2235,,,5,Argentine
+Cafe e Bar Gotemburgo,"R. Gotemburgo, 2 - São Cristóvão, Rio de Janeiro - RJ, 20941-080, Brazil",4.6,,False,,11,Argentine
+Cafe e Bar São Jorge do Rio de Janeiro,"R. Pedro Alves, 103 - Santo Cristo, Rio de Janeiro - RJ, 20220-280, Brazil",3.7,,False,,6,Argentine
+Restaurante Spoleto,"Terminal Rodoviário Novo Rio - Av. Francisco Bicalho, 1 - Santo Cristo, Rio de Janeiro - RJ, 20220-310, Brazil",3.9,(21) 2253-7176,,PRICE_LEVEL_MODERATE,230,Argentine
+Bob's Burger - Rodoviária Novo Rio,"Av. Francisco Bicalho, 01 - LJ G06S - Santo Cristo, Rio de Janeiro - RJ, 20220-202, Brazil",1,(21) 3167-3070,,,1,Argentine
+Depósito 75,"R. João Cardoso, 75 - Santo Cristo, Rio de Janeiro - RJ, 20220-060, Brazil",4.8,(21) 98057-4955,,,45,Argentine
+CR Lanches,"R. João Cardoso, 77 - Santo Cristo, Rio de Janeiro - RJ, 20220-060, Brazil",5,(21) 96988-6654,,,4,Argentine
+Pastel & Caldo De Cana,"Santo Cristo, Rio de Janeiro - State of Rio de Janeiro, 20230-130, Brazil",4.5,,False,,4,Argentine
+Bob's Shakes,"Av. Francisco Bicalho, 1 - Santo Cristo, Rio de Janeiro - RJ, 20220-310, Brazil",2.7,(21) 3167-3070,False,PRICE_LEVEL_MODERATE,94,Argentine
+Megamatte,"Av. Francisco Bicalho, 01 - Santo Cristo, Rio de Janeiro - RJ, 20220-310, Brazil",2.7,(21) 2213-0562,,PRICE_LEVEL_MODERATE,59,Argentine
+Giraffas Rodoviária Novo Rio,"Av. Francisco Bicalho, 01 - Santo Cristo, Rio de Janeiro - RJ, 20220-363, Brazil",3.3,4000-1515,,PRICE_LEVEL_MODERATE,81,Argentine
+Conexões PUB,"R. Sara, 142 - Santo Cristo, Rio de Janeiro - RJ, 20220-090, Brazil",4.6,(21) 97088-1815,,,13,Argentine
+Cemitas ADIS Cemitas Poblanas,"Entre 88 pt y 90 pt frente a panadería, 98440 Zac., Mexico",4,221 342 5950,,,2,Mexique
+Los Almuerzos,"CIRC Boulevard Juan Pablo II 1902 SUR, ESQ 19 Zac., Mexico",4,442 245 1090,,,2,Mexique
+El castillito,"98440 Zacatecas, Mexico",4.4,961 186 7654,,,5,Mexique
+Antojitos de las Flores,"Calle boxeo 1661, col.mexico 68, 98440 Zac., Mexico",3.5,221 334 0008,,,2,Mexique
+Cabo Grill,"Miguel Alemán No. 1000 Esq Rogelio González Plaza Aeropuerto, 98440 Zac., Mexico",4.5,81 8145 0508,,PRICE_LEVEL_MODERATE,18,Mexique
+Tres Valles Ignacio De La Llabe,"98440 Zacatecas, Mexico",5,288 135 6343,,,1,Mexique
+Restauran La Cabaña,"junto al parador san pedro de san juan a, 98440 Zac., Mexico",4.9,427 165 5910,,,18,Mexique
+El Rey de las Alitas,"Mixtecas Mz 70-L1, Centro Histórico de la Cdad. de México, Centro, Coyoacán, 04300 Ciudad de México, CDMX, Mexico",5,55 4474 2004,,,1,Mexique
+Tex Mex Grill,"P.za de la Constitución 13-Local 4, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",1.8,55 5510 9218,,,14,Mexique
+The Terrace,"Av Francisco I. Madero 73, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",3.3,55 5521 8600,,,1421,Mexique
+La Terraza del Conquistador,"P.za de la Constitución 13, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4.3,55 5510 0948,,PRICE_LEVEL_MODERATE,416,Mexique
+Ricon del Sabor,"P.za de la Constitución 13, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 42440 Tecozautla, CDMX, Mexico",5,761 733 5117,,,1,Mexique
+SOL JAROCHO,"P.za de la Constitución 13-local 6, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4.5,55 5518 1628,,,4,Mexique
+Restaurante El Pulgarcito,"P.za de la Constitución 13-Local 22, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4,55 5518 7128,,,3,Mexique
+Cocina Central 1812,"P.za de la Constitución 13-piso 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4.2,55 5035 1829,,PRICE_LEVEL_MODERATE,480,Mexique
+La bóveda,"P.za de la Constitución 13-interior 113, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",1.1,55 2244 4362,,,49,Mexique
+Primer Cuadro,"P.za de la Constitución 13, Centro Histórico de la Cdad. de México, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4.1,,False,PRICE_LEVEL_MODERATE,587,Mexique
+Bubayou Cajun Grill,"Cancun Americas Plaza Las Americas, Supermanzana 92, 77516 Cancún, Q.R., Mexico",2,998 887 1063,,,3,Mexique
+Sushi kazo,"Supermanzana 92, 77516 Cancún, Quintana Roo, Mexico",1,998 499 9093,,,2,Mexique
+Barbacoa la Sabrosita de Cancún,"Supermanzana 92, 77500 Cancún, Quintana Roo, Mexico",5,998 768 5757,,,1,Mexique
+Domino's Cancún López Portillo,"Av. José López Portillo Mza.1, 77515 Cancún, Q.R., Mexico",4.2,998 296 0150,,PRICE_LEVEL_MODERATE,2277,Mexique
+El Sarape,"Prolongación Avenida Kabáh Mza 1 Lte 3 Loc 20 59, Supermanzana 59, 77515 Cancún, Q.R., Mexico",4.3,998 206 8085,,PRICE_LEVEL_INEXPENSIVE,335,Mexique
+El Torthugo,"Av. Kabah Supermanzana 93 Manzana 19 Lote 2-Local 15, San Antonio, 77517 Cancún, Q.R., Mexico",3.9,998 840 0808,,PRICE_LEVEL_INEXPENSIVE,944,Mexique
+POLLERIA DON KICHO 2,"Av. Kabah S/N Mz. 2 Lote. 26, Supermanzana 60, 77514 Cancún, Q.R., Mexico",4.6,998 892 0024,,PRICE_LEVEL_INEXPENSIVE,434,Mexique
+Little Caesars Pizza,"Av. Rodrigo Gómez Mz. 2-Lote 3, 77515 Cancún, Q.R., Mexico",4,998 843 6666,,PRICE_LEVEL_INEXPENSIVE,2912,Mexique
+Quán VCL,"375G+8VG, Đăk Yă, Mang Yang District, Gia Lai, Vietnam",2.2,0327 919 181,,,5,Vietnam
+Quán bia Á Mong,"375G+8VG, Đăk Yă, Mang Yang District, Gia Lai, Vietnam",5,0396 701 616,,,2,Vietnam
+Hammy Hamsters big boy juice,"1134hdh Vvvbsbb, Đắk Ya, Mang Yang, Gia Lai, Vietnam",2,(484) 485-0936,,,1,Vietnam
+Youtube,"Quân Nguyên hūu, Đắk Ya, Mang Yang, Gia Lai, Vietnam",3.8,0339 945 371,,,4,Vietnam
+Don chicken,"Lô số 9 khu biệt thự Việt Hàn, đường, Văn Long, Đắk Ya, Mang Yang, Gia Lai, Vietnam",4.1,0985 294 535,,,11,Vietnam
+Bò né Doremi,"S01duong1bkdcvinhlocphuongbhhbquanbinhtantphcm Việt Nam, Đắk Ya, Mang Yang, Gia Lai, Vietnam",5,0768 788 859,,,1,Vietnam
+Bình Thuân,"375G+8VG, Đăk Yă, Mang Yang District, Gia Lai, Vietnam",2.4,0924 704 292,,,5,Vietnam
+Phở Thủy Dương,"63 P. Đinh Tiên Hoàng, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",5,0912 464 495,,,4,Vietnam
+Quán Trà sữa 172,"7 P. Trần Nguyên Hãn, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",3.8,024 3936 4054,,,14,Vietnam
+Phở Thìn Bờ Hồ,"61 P. Đinh Tiên Hoàng, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",4.2,0339 253 464,,PRICE_LEVEL_MODERATE,2684,Vietnam
+Nhà Hàng Mai Hoa,"11 P. Lý Thái Tổ, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",3,0908 586 886,,,1,Vietnam
+Kafebean Coffee Roastery,"7 P. Trần Nguyên Hãn, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",4.9,0936 107 710,,,98,Vietnam
+Lake View Side Restaurant,"47 P. Hàng Dầu, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",4.8,0834 063 388,True,,1275,Vietnam
+Quán Chè Cốc,"5 P. Trần Nguyên Hãn, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",5,0987 278 885,,,1,Vietnam
+Mercedes Hà Nội,"2 P. Ngô Quyền, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, Vietnam",4.2,0973 037 887,,,160,Vietnam
+Cháo lòng Nguyệt Béo,"18a P. Lý Thái Tổ, French Quarter, Hoàn Kiếm, Hà Nội 100000, Vietnam",5,0948 608 777,,,8,Vietnam
+Cơm niêu KOMBO - L5-08 TTTM Parcmall,"L5 08 TTTM Parcmall, Phường 15, Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam",3.7,0947 582 626,,PRICE_LEVEL_MODERATE,3,Vietnam
+Trịnh trần phương tuấn,"RJFH+6VM, Phường 15, Tân Bình, Ho Chi Minh City, Vietnam",4.2,0965 488 956,,,27,Vietnam
+Domino's Pizza Phan Huy Ích,"7 Phan Huy Ích, Phường 15, Tân Bình, Hồ Chí Minh 700000, Vietnam",4.4,1900 6099,True,PRICE_LEVEL_MODERATE,385,Vietnam
+Quán Cơm Như Nam,"RJFH+8H5, Tây Thạnh, Tân Bình, Ho Chi Minh City, Vietnam",5,0207 2844 523,,,1,Vietnam
+Vựa Sầu Riêng Thảo Tiền Giang,"7A Phan Huy Ích, Phường 15, Tân Bình, Hồ Chí Minh, Vietnam",2.8,0974 089 279,,,9,Vietnam
+Curbside Kitchen Corner,"4P53+R2F, DelightfulJunction. Elizabeth Parish, Summerfield, Jamaica",5,(876) 803-6171,,,2,Jamaïque
+Shavel Scott,"4P53+R2F, Summerfield, Jamaica",3,(876) 505-4484,,,2,Jamaïque
+italian Cafe,"4P53+R2F, Summerfield, Jamaica",5,(876) 449-2264,,,4,Jamaïque
+Mothers Patties,"X6C4+XV6, Kingston, Jamaica",3.5,,,PRICE_LEVEL_MODERATE,1249,Jamaïque
+Popeye's,"25 W Parade, Kingston, Jamaica",3.7,(876) 586-3269,,,50,Jamaïque
+Little Caesars,"X6C4+PCJ, W Parade, Kingston, Jamaica",4,(876) 810-7360,,,12,Jamaïque
+Domino's North Parade,"100 Orange St, Kingston, Jamaica",3,(876) 656-8989,,,3,Jamaïque
+Burger King,"33, Orange St, Kingston, Jamaica",3.8,(876) 948-4893,,PRICE_LEVEL_MODERATE,460,Jamaïque
+Island Grill,"91 King St, Kingston, Jamaica",4.1,(876) 857-0237,,PRICE_LEVEL_MODERATE,41,Jamaïque
+Dong Dong Chinese Restaurant,"Shop #6-7 60b East Queen Street Downtown, Kingston, Jamaica",3.6,(876) 343-8550,,,51,Jamaïque
+KFC Downtown,"X694+RQ8, King St, Kingston, Jamaica",3.4,(876) 922-6243,,PRICE_LEVEL_MODERATE,2639,Jamaïque
+Chungs Catering Services Ltd,"15 Church St, Kingston, Jamaica",5,(876) 948-9138,,,1,Jamaïque
+Tastee Orange Street,"65Orange St, Kingston, Jamaica",2.8,(876) 422-8111,,PRICE_LEVEL_INEXPENSIVE,4,Jamaïque
+N&G Ital Vegan Restaurant,"X6C3+QWJ, Mathews Ln, Kingston, Jamaica",4.1,(876) 818-8688,True,,7,Jamaïque
+zais,"42 Beeston St, Kingston, Jamaica",5,(876) 364-4735,,,1,Jamaïque
+Best Wings,"19 - 21 King St, Kingston, Jamaica",5,(876) 563-8017,,,2,Jamaïque
+Almacen Bronce,"23, Ayacucho #47, La Candelaria, Medellín, Antioquia, Colombia",3,42313485,,,2,Colombie
+Hoguera y sabor,"Cra. 46 #48-19, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",4.1,42310866,,PRICE_LEVEL_MODERATE,133,Colombie
+TRIZZIA ECOTIENDA SALUDABLE,"TORRES DE BOMBONA, Cl. 48 #42-41 LOCAL 113, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",4,304 3808425,,,5,Colombie
